@@ -1,0 +1,22 @@
+[
+    {
+        "roll_number": 1,
+        "name": "mari",
+        "grade": "A"
+    },
+    {
+        "roll_number": 2,
+        "name": "nini",
+        "grade": "A"
+    },
+    {
+        "roll_number": 3,
+        "name": "salo",
+        "grade": "D"
+    },
+    {
+        "roll_number": 4,
+        "name": "lika",
+        "grade": "B"
+    }
+]
